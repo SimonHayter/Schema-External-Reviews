@@ -3,6 +3,9 @@ This is a small project I made for a YouTube tutorial regarding [Schema External
 
 If you have any questions then you can contact me on [Twitter.com](https://twitter.com/simonhayteruk) or for online documentation please visit [How to use setup external Schema reviews website?](https://www.bybe.net/how-to-use-setup-external-schema-reviews/)
 
+###### Schema External Reviews Screenshots
+![How to use setup external Schema reviews website screenshot](https://www.bybe.net/files/github/how-to-use-setup-external-schema-reviews-screenshot.jpg)
+
 ###### Help this project
 I always value contributions to all my projects and I’m not sure if this project can be improved but by any means if you do spot some errors or you want to improve then please don’t hesitate to push some changes and I’ll merge pull them when I can.
 
